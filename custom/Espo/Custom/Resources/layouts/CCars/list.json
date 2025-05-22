@@ -1,0 +1,22 @@
+[
+    {
+        "name": "name",
+        "link": true
+    },
+    {
+        "name": "brand",
+        "width": 16
+    },
+    {
+        "name": "color",
+        "width": 16
+    },
+    {
+        "name": "enginePowerHP",
+        "width": 16
+    },
+    {
+        "name": "fuelType",
+        "width": 16
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "controller": "controllers/record",
+    "boolFilterList": [
+        "onlyMy"
+    ],
+    "color": "#ffffff",
+    "iconClass": "fas fa-car-rear",
+
+    "detail": {
+    "buttons": ["edit", "delete", "markAsSold"]
+  }
+}

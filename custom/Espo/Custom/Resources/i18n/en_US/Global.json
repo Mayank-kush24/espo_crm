@@ -1,0 +1,10 @@
+{
+    "scopeNames": {
+        "CCars": "Cars",
+        "CInternFieldAccess": "InternFieldAccess"
+    },
+    "scopeNamesPlural": {
+        "CCars": "Carses",
+        "CInternFieldAccess": "InternFieldAccesses"
+    }
+}

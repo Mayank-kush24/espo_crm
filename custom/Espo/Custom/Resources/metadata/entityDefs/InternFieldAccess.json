@@ -1,0 +1,5 @@
+{
+    "hooks": {
+        "beforeSave": ["Espo\\Custom\\Hooks\\Cars\\AccessControlHook"]
+    }
+}

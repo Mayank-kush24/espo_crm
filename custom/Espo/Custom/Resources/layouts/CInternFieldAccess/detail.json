@@ -1,0 +1,32 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "name"
+                },
+                {
+                    "name": "entityName"
+                }
+            ],
+            [
+                {
+                    "name": "fieldName"
+                },
+                {
+                    "name": "role"
+                }
+            ],
+            [
+                {
+                    "name": "startDateTime"
+                },
+                {
+                    "name": "endDateTime"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": "Overview"
+    }
+]

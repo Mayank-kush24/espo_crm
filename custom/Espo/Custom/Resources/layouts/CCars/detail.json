@@ -1,0 +1,100 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "name"
+                },
+                {
+                    "name": "brand"
+                }
+            ],
+            [
+                {
+                    "name": "district"
+                },
+                {
+                    "name": "driveTrain"
+                }
+            ],
+            [
+                {
+                    "name": "fuelType"
+                },
+                {
+                    "name": "engineSizecc"
+                },
+                {
+                    "name": "enginePowerHP"
+                }
+            ],
+            [
+                {
+                    "name": "model"
+                },
+                {
+                    "name": "paintAndPartsCondition"
+                }
+            ],
+            [
+                {
+                    "name": "mileagekm"
+                },
+                {
+                    "name": "priceTRY"
+                },
+                {
+                    "name": "sellerType"
+                }
+            ],
+            [
+                {
+                    "name": "vehicleTaxTRY"
+                },
+                {
+                    "name": "year"
+                }
+            ],
+            [
+                {
+                    "name": "tradeInAvailable"
+                },
+                {
+                    "name": "transmissionType"
+                },
+                {
+                    "name": "listingTitle"
+                }
+            ],
+            [
+                {
+                    "name": "accidentHistory"
+                },
+                {
+                    "name": "bodyType"
+                }
+            ],
+            [
+                {
+                    "name": "city"
+                },
+                {
+                    "name": "color"
+                }
+            ],
+            [
+                {
+                    "name": "listingDate"
+                },
+                {
+                    "name": "listingID"
+                },
+                {
+                    "name": "series"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": "Overview"
+    }
+]

@@ -1,0 +1,39 @@
+{
+    "fields": {
+        "listingTitle": "ListingTitle",
+        "district": "District",
+        "city": "City",
+        "priceTRY": "Price(TRY)",
+        "listingID": "ListingID",
+        "listingDate": "ListingDate",
+        "brand": "Brand",
+        "series": "Series",
+        "model": "Model",
+        "year": "Year",
+        "mileagekm": "Mileage(km)",
+        "transmissionType": "TransmissionType",
+        "fuelType": "FuelType",
+        "bodyType": "BodyType",
+        "color": "Color",
+        "engineSizecc": "EngineSize(cc)",
+        "enginePowerHP": "EnginePower(HP)",
+        "driveTrain": "DriveTrain",
+        "paintAndPartsCondition": "PaintAndPartsCondition",
+        "tradeInAvailable": "TradeInAvailable",
+        "sellerType": "SellerType",
+        "vehicleTaxTRY": "VehicleTax(TRY)",
+        "accidentHistory": "AccidentHistory",
+        "status": "Status"
+    },
+    "links": [],
+    "labels": {
+        "Create CCars": "Create Cars"
+    },
+    "options": {
+        "status": {
+            "Available": "Available",
+            "Reserved": "Reserved",
+            "Sold": "Sold"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+name,brand,color,enginePowerHP,fuelType
+"Renault Megane",Renault,,"110 hp",Diesel
+"Peugeot 206",Peugeot,,"109 hp","LPG & Gasoline"
+"Peugeot 206",Peugeot,,"76 hp","LPG & Gasoline"
+"Honda Civic",Honda,,"90 hp","LPG & Gasoline"
+"Opel Corsa",Opel,,"90 hp",Diesel
+"Fiat Palio",Fiat,,"77 hp","LPG & Gasoline"
+"Opel Corsa",Opel,,"51 - 75 HP",Gasoline
+"BMW 3 Serisi",BMW,,"170 hp",Gasoline
+"Volkswagen Jetta",Volkswagen,,"125 hp",Gasoline
+"Volkswagen Polo",Volkswagen,,"95 hp",Gasoline
+"Opel Astra",Opel,,"90 hp",Diesel
+"Hyundai Accent Blue",Hyundai,,"108 hp","LPG & Gasoline"
+"Toyota Avensis",Toyota,,"110 hp",Gasoline
+"Ford Focus",Ford,,"95 hp",Diesel
+"Honda Civic",Honda,,"125 hp","LPG & Gasoline"
+"Renault Fluence",Renault,,"110 hp",Diesel
+"Fiat 500 Ailesi",Fiat,,"85 hp",Diesel
+"Tofaş Doğan",Tofaş,,"83 hp","LPG & Gasoline"
+"Fiat Palio",Fiat,,"77 hp","LPG & Gasoline"
+"Ford Fiesta",Ford,,"68 hp",Diesel

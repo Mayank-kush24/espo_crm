@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "entityName": "EntityName",
+        "fieldName": "FieldName",
+        "role": "Role",
+        "startDateTime": "StartDateTime",
+        "endDateTime": "EndDateTime",
+        "isActive": "IsActive"
+    },
+    "links": [],
+    "labels": {
+        "Create CInternFieldAccess": "Create InternFieldAccess"
+    },
+    "options": {
+        "role": {
+            "admin": "admin",
+            "intern": "intern"
+        }
+    }
+}
